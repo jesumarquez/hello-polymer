@@ -1,0 +1,27 @@
+{
+  "name": "demopolymer",
+  "version": "0.0.1",
+  "authors": [
+    "Jesu Marquez <jesumarquez@gmail.com>"
+  ],
+  "description": "Pruebas de polymer",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4",
+    "core-ajax": "Polymer/core-ajax#~0.5.4"
+  }
+}

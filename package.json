@@ -1,0 +1,11 @@
+{
+  "name": "demopolymer",
+  "version": "0.0.1",
+  "description": "pruebas de polymer",
+  "main": "server.js",
+  "repository": "",
+  "author": "Jesu Marquez <jesumarquez@gmail.com>",
+  "dependencies": {
+    "express": "~4.11.2"
+  }
+}
